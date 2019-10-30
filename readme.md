@@ -19,6 +19,7 @@ How to install:
     DB_DATABASE=pictureapi  
     DB_USERNAME=homestead  
     DB_PASSWORD=secret
+    
     APP_URL=http://localhost
 
 - Create the database `pictureapi`
