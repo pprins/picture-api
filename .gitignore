@@ -12,5 +12,3 @@ npm-debug.log
 yarn-error.log
 storage/pictures/*/**
 .idea
-/app/Http/Resources/PictureResource.php
-/app/Http/Resources/PictureResourceCollection.php
