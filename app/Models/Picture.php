@@ -30,6 +30,6 @@ class Picture extends Model
      */
     public function hasUpdatedPictureUrl($picture_url): bool
     {
-        return $this->picture_url != $picture_url || !$this->picture_filename;
+        return $this->pic_url != $picture_url || !$this->pic_filename;
     }
 }
